@@ -28,3 +28,7 @@ To start scraping business information from Google Maps, follow these steps:
 3. Run the `start.bat` file to start the scraper.
 
 The scraper will then begin fetching business information from Google Maps listings based on the parameters you provide. Please note that the scraper's usage may be subject to Google's terms of service, so use it responsibly and ethically.
+
+## P.S
+
+To close the script, close the opened browser page first!
