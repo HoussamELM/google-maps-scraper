@@ -32,3 +32,5 @@ The scraper will then begin fetching business information from Google Maps listi
 ## P.S
 
 To close the script, close the opened browser page first!
+Make sure you include the country or city (preferably city)
+Example prompt: "Sushi Restaurant London"
