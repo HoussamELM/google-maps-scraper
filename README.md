@@ -34,3 +34,7 @@ The scraper will then begin fetching business information from Google Maps listi
 To close the script and export the data, close the opened browser page first! Or wait for it to grab everything <br>
 Make sure you include the country or city (preferably city) <br>
 Example prompt: "Sushi Restaurant London"
+
+<br>
+<br>
+<a href="https://bmc.link/hsmdev" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
