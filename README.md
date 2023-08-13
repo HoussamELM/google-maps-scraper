@@ -1,5 +1,3 @@
-Sure, here's a Markdown description for a Google Maps scraper that grabs business information:
-
 # Google Maps Business Info Scraper
 
 This is a simple Google Maps scraper designed to extract business information, including name, address, website, phone number, rating, and rating number. It allows you to gather valuable data from Google Maps listings for various purposes, such as research, analysis, or data collection.
