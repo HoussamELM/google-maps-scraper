@@ -5,7 +5,7 @@ This is a simple Google Maps scraper designed to extract business information, i
 ## Features
 
 - Retrieves essential business details from Google Maps listings.
-- Provides information like name, address, website, phone number, rating, and rating number.
+- Provides information like name, address, website, phone number, rating, and rating number into a ## CSV file
 
 ## Prerequisites
 
