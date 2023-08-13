@@ -35,3 +35,6 @@ The scraper will then begin fetching business information from Google Maps listi
 - Make sure you include the country or city (preferably city) <br>
 - Example prompt: "Sushi Restaurant London"
 
+## P.S 2
+
+This is not all my code, i modified github.com/jonsystems 's code
