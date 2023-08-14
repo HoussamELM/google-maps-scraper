@@ -37,4 +37,4 @@ The scraper will then begin fetching business information from Google Maps listi
 
 ## P.S 2
 
-This is not all my code, i cloned and modified <a href="[https://github.com/jonsystems/google-maps-scraper](https://github.com/jonsystems/google-maps-scraper)https://github.com/jonsystems/google-maps-scraper" target="_blank">jonsystems</a>'s code
+This is not all my code, i cloned and modified <a href="https://github.com/jonsystems/google-maps-scraper" target="_blank">jonsystems</a>'s code
